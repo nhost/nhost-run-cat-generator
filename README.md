@@ -4,6 +4,6 @@ A Cat Generator application written in Python Leveraging Nhost Run. In short, Nh
 
 This repository includes:
 
-    a very basic Python + Flask application
-    a Dockerfile to build a docker image with the Python application
-    a configuration file to deploy the Nhost Run service
+1. a very basic Python application
+2. a Dockerfile to build a docker image with the Python application
+3. a configuration file to deploy the Nhost Run service
